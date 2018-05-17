@@ -7,4 +7,4 @@ Created on Thu May 17 17:33:19 2018
 
 import sample_code
 
-assert(sample_code.factorial(5)==120)
+assert sample_code.factorial(5)==120
