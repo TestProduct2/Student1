@@ -5,6 +5,6 @@ Created on Thu May 17 17:33:19 2018
 @author: aparnami
 """
 
-import sample_code
+import SampleCode
 
-assert sample_code.factorial(5)==120
+assert(SampleCode.factorial(5)==120)
